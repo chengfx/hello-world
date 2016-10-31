@@ -1,3 +1,4 @@
 # hello-world
-this is b
+##Introduction
+  This is the trial repository I want to try some features of github and git. 
 
