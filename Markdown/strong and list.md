@@ -1,6 +1,6 @@
 In this file, I will describle how to emphasize our contents and add lists in files.
 ###1. *Emphasizing* our contents
- if we want to use text formatting, such as bold or italics, we can use the symboles '*' and '_' to surround texts which we want to strong.
+If we want to use text formatting, such as bold or italics, we can use the symbols '*' and '_' to surround texts which we want to emphasize.
 
 	*single asterisks*
 	_single underscores_
@@ -24,13 +24,23 @@ if we want to use both bold and italic,we can do in the following format
 	*__one asterisk and double underscores__*
 	_**one underscore and double asterisks**_
 	
-the effect of above sentences is  
-**_double asterisks and one underscore_**
-***triple asterisks***
-__*double underscores and one asterisk*__
-___triple underscores____
-or
-*__one asterisk and double underscores__*
-_**one underscore and double asterisks**_
+the effect of above sentences is 
+**_double asterisks and one underscore_** 
+***triple asterisks*** 
+__*double underscores and one asterisk*__ 
+___triple underscores____ 
+or 
+*__one asterisk and double underscores__* 
+_**one underscore and double asterisks**_ 
 
 ###2. *Adding* lists
+List can be divided into two forms, unordered list and ordered list. For unordered list we can using the symbols '*', '+' or '-'. 
+
+	* using the symbols '*' at the beginning of the sentences
+	+ using the symbols '+' at the beginning of the sentences
+	- using the symbols '-' at the beginning of the sentences
+	
+the effect ot above sentences is 
+* using the symbols '*' at the beginning of the sentences 
++ using the symbols '+' at the beginning of the sentences 
+- using the symbols '-' at the beginning of the sentences
