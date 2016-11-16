@@ -47,11 +47,12 @@ the effect ot above sentences is
 - using the symbols '-' at the beginning of the sentences
 
 For ordered list we will use the following form  
-	1.first  	
-	2.second  
-	3.third  
+
+	1. first  	
+	2. second  
+	3. third  
 	
 the effect ot above sentences is  	
-1.first  
-2.second  
-3.third
+1. first  
+2. second  
+3. third
