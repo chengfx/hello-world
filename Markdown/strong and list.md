@@ -24,7 +24,8 @@ if we want to use both bold and italic,we can do in the following format
 	*__one asterisk and double underscores__*
 	_**one underscore and double asterisks**_
 	
-the effect of above sentences is  
+the effect of above sentences is
+
 **_double asterisks and one underscore_**  
 ***triple asterisks***  
 __*double underscores and one asterisk*__  
@@ -45,14 +46,12 @@ the effect ot above sentences is
 + using the symbols '+' at the beginning of the sentences
 - using the symbols '-' at the beginning of the sentences
 
-for ordered list we will use the following form
-
-	1.first
-	2.second
-	3.third
+For ordered list we will use the following form  
+	1.first  	
+	2.second  
+	3.third  
 	
-the effect ot above sentences is 
-	
+the effect ot above sentences is  	
 1.first  
 2.second  
-3.third	  
+3.third
