@@ -18,3 +18,7 @@ the effect if above sentence is
 
 This is a [link][1] that can skip to Google.
 [1]: http://www.google.com
+
+As we've seen, we can not see  '[1]: http://www.google.com' in the contents. This is hidden by interpreter 
+automatically. So it can be placed in anywhere we want. It's the best idea that it is placed at the end of the file. 
+So the contents we write will be similar to what we will see.  
